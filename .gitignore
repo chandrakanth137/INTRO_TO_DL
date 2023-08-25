@@ -9,6 +9,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 venv/
+medical_classification/medical-mnist
 build/
 develop-eggs/
 dist/
