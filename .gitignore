@@ -10,6 +10,7 @@ __pycache__/
 .Python
 venv/
 medical_classification/medical-mnist
+medical_segmentation/Kvasir-Capsule
 build/
 develop-eggs/
 dist/
